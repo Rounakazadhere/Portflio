@@ -1,11 +1,11 @@
 import selfImage from '../assets/photos/self_photo_final.png';
-import javaLpu from '../assets/photos/JavaLpu.pdf';
+import javaLpu from '../assets/photos/javaLpu.pdf';
 import genAiCert from '../assets/photos/GenAiPw.jpeg';
 // import rpaDiploma from '../assets/photos/Automation Developer Associate Training (v2024.10) for ICT Academy Cohort 2_Rounak Azad_en-US_diploma.pdf';
 import sqlCert from '../assets/photos/From Relational Model (SQL) to MongoDB\'s Document Model.pdf';
 import privacyCert from '../assets/photos/Privacy and Security in Online Social Media.pdf';
 import dsaCert from '../assets/photos/DSALpu.jpeg';
-import oopCert from '../assets/photos/oopslpu.jpeg';
+import oopCert from '../assets/photos/oopsLpu.jpeg';
 import autoDevCert from '../assets/photos/Automation Developer Associate Training (v2024.10) for ICT Academy Cohort 2_Rounak Azad_en-US_diploma.pdf';
 import compTheoryCert from '../assets/photos/Computational Theory: Language Principle & Finite Automata Theory.pdf';
 import digSysCert from '../assets/photos/Digital Systems: From Logic Gates to Processors.pdf';
